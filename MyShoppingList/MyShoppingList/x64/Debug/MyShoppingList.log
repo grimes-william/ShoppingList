@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\dev\MyShoppingList\MyShoppingList\MyForm.cpp(7,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  MyShoppingList.vcxproj -> C:\dev\MyShoppingList\x64\Debug\MyShoppingList.exe

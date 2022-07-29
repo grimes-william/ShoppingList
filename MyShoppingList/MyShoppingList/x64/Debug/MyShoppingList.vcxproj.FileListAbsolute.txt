@@ -1,0 +1,4 @@
+C:\dev\MyShoppingList\MyShoppingList\x64\Debug\MyShoppingList.vcxproj.AssemblyReference.cache
+C:\dev\MyShoppingList\MyShoppingList\x64\Debug\MyShoppingList.vcxproj.SuggestedBindingRedirects.cache
+C:\dev\MyShoppingList\MyShoppingList\x64\Debug\MyShoppingList.MyForm.resources
+C:\dev\MyShoppingList\MyShoppingList\x64\Debug\MyShoppingList.vcxproj.GenerateResource.cache
